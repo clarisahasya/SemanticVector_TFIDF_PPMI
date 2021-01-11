@@ -1,0 +1,5 @@
+1. Pastikan 20 file artikel, dan file .py sudah dalam satu folder
+
+2. Kemudian run file .py dengan terminal. " python tugas_pekan_3_nlp_tf_idf_ppmi.py "
+
+3. Lalu akan ditampilkan ukuran matriks TF-IDF, co-occurence term-context, PPMI. Persentase TF-IDF & PPMI yang tidak bernilai 0. Cosine similarity antar kalimat dan antar kata berdasarkan matriks TF-IDF. Cosine similarity antar kata berdasarkan matriks co-occurrence term-context. Nilai PPMI antar kata. 
